@@ -1,0 +1,26 @@
+	Instructions
+1. Convert the psd to HTML. (Use HTML5, CSS3, and Jquery)
+
+2. Each of the 4 sections should have the height of the browser window, and its elements should be vertically centered.
+
+3. When you click on the navigation on the top or on the right, it should scroll to its corresponding section.
+
+4. Top and right navigations should be fixed.
+
+5. On the last section, clicking on the tabs (Video, Photo, etc) should change the content below.
+
+6. You can use Open Sans for all the fonts.
+
+
+Optional (+pts)
+
+
+
+1. Update navigation active states when scrolling.
+
+2. Play a video (Youtube or Vimeo) in place on the first section if the Play button is clicked.
+
+
+Good luck! :D
+
+Spore, chon chon, tarou, giearth, hornet
