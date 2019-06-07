@@ -110,9 +110,9 @@ ul.topnav li.dropdownIcon {
       text-align: center;
   }
 
-  ul.topnav.responsive li.dl-board:not(:nth-child(7)) {
+  /* ul.topnav.responsive li.dl-board:not(:nth-child(7)) {
     display: inline;
-  }
+  } */
 
   .container {
     width: 100%;
@@ -123,12 +123,9 @@ ul.topnav li.dropdownIcon {
 
   .row {
     width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
   }
 
-.row::after {
+  .row::after {
     display: table;
     clear: both;
   }
@@ -146,9 +143,6 @@ ul.topnav li.dropdownIcon {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-/* ul.topnav {
-  padding: 37.5px;
-} */
 
 /* ------------------ */
 
